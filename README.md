@@ -5,7 +5,7 @@ A SwiftUI Control to make text gradient super easy and fast way.
 ## Requirements
 
 - iPhone or iPad
-- iOS or iPadOS 12 or later
+- iOS or iPadOS 14 or later
 
 ## Installation
 
