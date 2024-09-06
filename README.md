@@ -33,6 +33,9 @@ struct SampleApp: App {
     }
 }
 ```
-##Sample UI
-![Simulator Screenshot - iPhone 15 - 2024-09-06 at 16 29 43](https://github.com/user-attachments/assets/1e4bbebb-af9e-44d5-8c9c-55ada94955e8)
+##Sample 
+
+![Gradient](https://github.com/user-attachments/assets/49dd5f87-c1e2-411a-9ed2-48b032c4b8aa)
+
+
 
