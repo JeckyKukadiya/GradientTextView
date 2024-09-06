@@ -13,7 +13,7 @@ public struct GradientText: View {
     var size: CGFloat = 24
     var font: Font? = nil
     
-    var body: some View {
+   public var body: some View {
         Text(text)
             .foregroundColor(.clear)
             .background(LinearGradient(gradient: Gradient(colors: gradientColors), startPoint: .leading, endPoint: .trailing))
