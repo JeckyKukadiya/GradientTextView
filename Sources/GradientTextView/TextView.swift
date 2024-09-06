@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct GradientTextView: View {
+struct GradientText: View {
     var text: LocalizedStringKey
     var gradientColors: [Color] = [Color.red, Color.green, Color.blue]
     var size: CGFloat = 24
@@ -22,7 +22,7 @@ struct GradientTextView: View {
     }
 }
 
-extension GradientTextView {
+extension GradientText {
     init(
         text: String = "",
         gradientColors: [Color] = [Color.red, Color.green, Color.blue],
@@ -35,5 +35,5 @@ extension GradientTextView {
 }
 
 #Preview {
-    GradientTextView(text: "Hello, Louise!", gradientColors: [Color.yellow, Color.purple, Color.black])
+    GradientText(text: "Hello, Louise!", gradientColors: [Color.yellow, Color.purple, Color.black])
 }
