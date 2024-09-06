@@ -17,6 +17,8 @@ A SwiftUI Control to make text gradient super easy and fast way.
 
 Just import GradientTextView do the magic. Happy Coding!!
 
+Customize parameter with Function call - Text, Colors, Font, Size
+
 ```swift
 import SwiftUI
 import GradientTextView
