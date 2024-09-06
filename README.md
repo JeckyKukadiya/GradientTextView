@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 - 2024-09-06 at 16 29 43](https://github.com/user-attachments/assets/8cf487f1-5402-4c6d-b959-7d77a16b51d4)# Gradient TextView
+# Gradient TextView
 
 A SwiftUI Control to make text gradient super easy and fast way.
 
