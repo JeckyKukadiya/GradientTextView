@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct GradientText: View {
+public struct GradientText: View {
     var text: LocalizedStringKey
     var gradientColors: [Color] = [Color.red, Color.green, Color.blue]
     var size: CGFloat = 24
@@ -22,7 +22,7 @@ struct GradientText: View {
     }
 }
 
-extension GradientText {
+public extension GradientText {
     init(
         text: String = "",
         gradientColors: [Color] = [Color.red, Color.green, Color.blue],
